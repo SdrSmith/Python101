@@ -15,9 +15,9 @@ git clone [URL_DU_REPO]
 
 Installez les dépendances nécessaires :
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
-Utilisation
+## Utilisation
 Pour utiliser le script, exécutez la commande suivante en remplaçant <host>, <username>, et <path_to_password_file> par vos valeurs :
 
-python ssh_bruteforce.py <host> <username> <path_to_password_file>
+```python ssh_bruteforce.py <host> <username> <path_to_password_file>```
