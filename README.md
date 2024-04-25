@@ -20,4 +20,4 @@ Installez les dépendances nécessaires :
 ## Utilisation
 Pour utiliser le script, exécutez la commande suivante en remplaçant <host>, <username>, et <path_to_password_file> par vos valeurs :
 
-```python ssh_bruteforce.py <host> <username> <path_to_password_file>```
+```python SshBrutForcing.py <host> <username> <path_to_password_file>```
